@@ -1,0 +1,10 @@
+# MIPS CODE
+
+MIPS-Code is sample translations I've done from C to MIPS
+
+## Usage
+I wrote the MIPS code using Mars4_5.
+To run any of the sample MIPS code on Mars:
+-Download Mars (https://courses.missouristate.edu/KenVollmar/MARS/download.htm)
+-Open desired MIPS file (.asm) [File -> Open]
+-Run -> Assemble  , Run -> Go
